@@ -31,8 +31,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/orontee/argos.git",
-                    "tag": "v1.6.0",
-                    "commit": "55b10e38cac67dd6cbf4fe18e360cf836e7d6807"
+                    "tag": "v1.7.0",
+                    "commit": "1611368ee8b08bf9808cf4d1685128dd1d136e54"
                 }
             ]
         }
