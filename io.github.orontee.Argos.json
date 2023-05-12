@@ -1,6 +1,6 @@
 {
     "app-id" : "io.github.orontee.Argos",
-    "runtime" : "org.gnome.Sdk",
+    "runtime" : "org.gnome.Platform",
     "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "command" : "argos",
