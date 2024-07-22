@@ -11,8 +11,8 @@
         "--socket=wayland",
         "--talk-name=org.freedesktop.Notifications"
     ],
-    "skip-arches": [
-        "aarch64"
+    "only-arches": [
+        "x86_64"
     ],
     "cleanup" : [
         "/include",
