@@ -11,9 +11,6 @@
         "--socket=wayland",
         "--talk-name=org.freedesktop.Notifications"
     ],
-    "only-arches": [
-        "x86_64"
-    ],
     "cleanup" : [
         "/include",
         "/lib/pkgconfig",
@@ -57,8 +54,8 @@
                 {
                     "type": "git",
                     "url": "https://github.com/orontee/argos.git",
-                    "tag": "v1.16.0",
-                    "commit": "04183a0a8cf7c0d14cefeb74342d3883830f139c"
+                    "tag": "v1.16.1",
+                    "commit": "84272305a6075340df04a2d475bd998749a65f67"
                 }
             ]
         }
