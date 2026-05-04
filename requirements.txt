@@ -3,6 +3,7 @@ aiohappyeyeballs
 aiohttp-client-cache
 aiohttp
 aiosignal
+colorlog
 frozenlist
 idna
 ifaddr
